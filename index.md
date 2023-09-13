@@ -363,7 +363,10 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
-
+<p>
+  Please note that R and Python will be taught in parallell sessions on day 2, and as such it is not possible to attend both courses.
+  As such, the following schedule spans 3 days and not 4.
+</p>
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
