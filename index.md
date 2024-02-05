@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Centre for Digital Life Norway, ELIXIR-Norway, NRIS and the University of Bergen Library Digital Lab"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "121,Floor 1, Haakon Sheteligs plass 7, Bergen <a href="https://link.mazemap.com/LXrHvr7p">Mazemap-link</a> "      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "121,Floor 1, Haakon Sheteligs plass 7, Bergen, https://link.mazemap.com/LXrHvr7p "      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "no"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "60.387795"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -142,6 +142,7 @@ address.
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
+  <a href="https://link.mazemap.com/LXrHvr7p">MazeMap</a>,
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
