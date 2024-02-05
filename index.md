@@ -254,7 +254,7 @@ Display the contact email address set in the configuration file.
 
 <p id="signup">
   <strong>UiB event page:</strong>
-  <a href="https://skjemaker.app.uib.no/view.php?id=16467907">UiB event page</a>.
+  <a href="https://www.uib.no/en/ub/168267/software-carpentry-course-research-computing-skills-shell-r-and-python-reproducible">UiB event page</a>.
 </p>
 
 <p id="roles">
