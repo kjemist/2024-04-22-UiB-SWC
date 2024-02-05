@@ -246,10 +246,20 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p id="signup">
+  <strong>Signup:</strong>
+  <a href="https://skjemaker.app.uib.no/view.php?id=16467907">Sign up via Skjemaker</a>.
+</p>
+
+<p id="signup">
+  <strong>UiB event page:</strong>
+  <a href="https://skjemaker.app.uib.no/view.php?id=16467907">UiB event page</a>.
+</p>
+
 <p id="roles">
   <strong>Roles:</strong>
   To learn more about the roles at the workshop (who will be doing what),
-  refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
+  refer to <a href="https://www.uib.no/en/ub/168267/software-carpentry-course-research-computing-skills-shell-r-and-python-reproducible">our Workshop FAQ</a>.
 </p>
 
 {% comment %}
